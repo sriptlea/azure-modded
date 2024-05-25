@@ -14,7 +14,7 @@ mousemoverel = mousemoverel
 
 -- Variables
 
-local UiLib = loadstring(game:HttpGet("https://pastebin.com/raw/JFzC7iXS"))()
+local UiLib = loadstring(game:HttpGet("https://gist.githubusercontent.com/Actyrn/af728d05a02cfc59345e30735e8413a7/raw/6f2219e9569a77a47d0508f4d64841d0f29371b8/Azure%2520Modded%2520Ui"))()
 
 local RunService = game:GetService("RunService")
 local UserInputService = game:GetService("UserInputService")
